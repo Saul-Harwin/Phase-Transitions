@@ -1,0 +1,70 @@
+# --------------------
+# Python artifacts
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# --------------------
+# Virtual environments
+# --------------------
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# --------------------
+# Packaging / build
+# --------------------
+build/
+dist/
+wheelhouse/
+pip-wheel-metadata/
+
+# --------------------
+# Testing / coverage
+# --------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# VS Code
+# --------------------
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# --------------------
+# OS-specific
+# --------------------
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Secrets
+# --------------------
+.env
+*.key
+*.pem
