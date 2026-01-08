@@ -17,6 +17,7 @@ venv/
 .venv/
 ENV/
 env/
+.tens_venv/
 
 # --------------------
 # Packaging / build
