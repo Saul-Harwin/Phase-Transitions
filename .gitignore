@@ -22,6 +22,8 @@ env/
 # --------------------
 # Remove big.h5 file because too large for repo
 # --------------------
+.big.h5
+
 
 # --------------------
 # Packaging / build
