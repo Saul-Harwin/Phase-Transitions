@@ -20,6 +20,10 @@ env/
 .tens_venv/
 
 # --------------------
+# Remove big.h5 file because too large for repo
+# --------------------
+
+# --------------------
 # Packaging / build
 # --------------------
 build/
